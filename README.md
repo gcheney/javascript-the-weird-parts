@@ -1,2 +1,3 @@
-# javascript-the-weird-parts
-Repo for working through "JavaScript: Understanding the Weird Parts" on Udemy
+# JavaScript: Understanding the Weird Parts
+
+Repo for working through [JavaScript: Understanding the Weird Parts](https://www.udemy.com/understand-javascript/).
